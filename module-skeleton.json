@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-product-workspace-vue-inertia",
+  "capabilityKey": "liberusoftware/module-crm-product-workspace",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-crm-product-workspace-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/crm/nextjs/crm-product-workspace.md",
+  "presentationPlan": "projects/crm/vue/crm-product-workspace.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
